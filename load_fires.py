@@ -3,9 +3,9 @@ import pandas as pd
 
 
 conn = psycopg.connect("""
-  dbname=up202107689
-  user=up202107689
-  password=up202107689
+  dbname=***********
+  user=***********
+  password=***********
   host=dbm.fe.up.pt
   port=5433
   options='-c search_path=fires'
